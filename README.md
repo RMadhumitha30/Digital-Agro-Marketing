@@ -26,12 +26,6 @@
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of your web application here to demonstrate the UI and features.
-
----
-
 ## 📂 Project Structure
 
 ```plaintext
